@@ -1,6 +1,10 @@
 
 
 - **感谢** [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)和[Lienol/openwrt](https://github.com/Lienol/openwrt)
+- **感谢** LEAN 大神
+
+- **直接 点  “Fork”  自己拿去在线编译**
+
 \
 - 在触发工作流程后，在 Actions 页面等待执行到`SSH connection to Actions`步骤，会出现下面信息：  
   ***
